@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/ZerryX/bsdmz.blog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以去我的哔哩哔哩首页 [点击进入我的哔哩哔哩首页！](https://space.bilibili.com/1984755495?spm_id_from=333.337.0.0) 三连加关注
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 所以我要做什么？
+自己的博客
+### 我为什么要做视频？
+做视频纯属兴趣爱好，喜欢就关注吧
+###  UP读评论吗？
+当然读，只不过有时候不读
 
-### Markdown
+有时候我会分享一些宝藏软件
+这些软件也会在另外一个页面展开
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 这是我的博客
+## 这是属于我的博客
+###  QQ群在哪里？
+在哔哩哔哩首页动态置顶
 
-```markdown
-Syntax highlighted code block
+### 邮箱在哪里？
+在置顶动态的置顶评论里面
 
-# Header 1
-## Header 2
-### Header 3
+- 下次可以通过哔哩哔哩置顶动态的置顶评论的第1条回复进入该网站
+- 所以我还会分享一些宝藏网站
 
-- Bulleted
-- List
+### 我的视频要求
+1. 别在评论区发布一些不适的内容
+2. 不接受黑粉
+3. 别侮辱谩骂
+4.有问题指出来，别搁那骂
 
-1. Numbered
-2. List
+评论区要求
 
-**Bold** and _Italic_ and `Code` text
+活跃点就行
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+还有人不知道哔哩哔哩吗？[点击进入](https://www.bilibili.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZerryX/bsdmz.blog.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+有时候会发鬼畜
 
-### Support or Contact
+有时候正经视频
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+有时候整活视频
+
+有时候会有自己封装的系统
+
+有时候会发教程
+
+欢迎三连加关注加评论加转发
